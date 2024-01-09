@@ -14,9 +14,6 @@ import imageMail from './assets/images/mail.png'
 import imageLinkedin from './assets/images/linkedin.png'
 import imageWebsite from './assets/images/website.png'
 
-
-
-
 function App()
 {
   return (
