@@ -32,7 +32,7 @@ function App()
         <AudioControl src={musicRainChill} />
 
         <h2 className=' my-10 mb-20  '>
-          <a href="javascript:history.go(0)" className='text-blue-300 hover:text-cyan-500 '> 🔁 Restart Music 🔁 </a>
+          <a href="javascript:history.go(0)" className='text-blue-300 hover:text-cyan-500 '>  Restart Music  </a>
         </h2>
       </div>
 
